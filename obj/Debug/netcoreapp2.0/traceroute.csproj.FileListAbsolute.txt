@@ -1,0 +1,10 @@
+C:\Users\dbrun\Desktop\traceroute\bin\Debug\netcoreapp2.0\traceroute.deps.json
+C:\Users\dbrun\Desktop\traceroute\bin\Debug\netcoreapp2.0\traceroute.runtimeconfig.json
+C:\Users\dbrun\Desktop\traceroute\bin\Debug\netcoreapp2.0\traceroute.runtimeconfig.dev.json
+C:\Users\dbrun\Desktop\traceroute\bin\Debug\netcoreapp2.0\traceroute.dll
+C:\Users\dbrun\Desktop\traceroute\bin\Debug\netcoreapp2.0\traceroute.pdb
+C:\Users\dbrun\Desktop\traceroute\obj\Debug\netcoreapp2.0\traceroute.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\Desktop\traceroute\obj\Debug\netcoreapp2.0\traceroute.AssemblyInfoInputs.cache
+C:\Users\dbrun\Desktop\traceroute\obj\Debug\netcoreapp2.0\traceroute.AssemblyInfo.cs
+C:\Users\dbrun\Desktop\traceroute\obj\Debug\netcoreapp2.0\traceroute.dll
+C:\Users\dbrun\Desktop\traceroute\obj\Debug\netcoreapp2.0\traceroute.pdb
